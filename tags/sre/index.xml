@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lswith&#39;s Blog</title>
-    <link>https://lswith.io/</link>
-    <description>Recent content on Lswith&#39;s Blog</description>
+    <title>Sre on Lswith&#39;s Blog</title>
+    <link>https://lswith.io/tags/sre/</link>
+    <description>Recent content in Sre on Lswith&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 17:23:30 +1100</lastBuildDate>
     
-	<atom:link href="https://lswith.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lswith.io/tags/sre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,19 +21,6 @@
       <description>I attended KubeConf 2018 in Seattle a week ago. I&amp;rsquo;ve decided to distill the core concepts that I think are important from the conference into this blog post.
 I can categorize what the conference was trying to push into 5 concepts:
  Observability is King Do 1 Thing Well Choose Tools Appropriately Everyone Needs to know Cloud Ops Be Cloud Provider Agnostic  These aren&amp;rsquo;t new ideas but they were so prominent and spoken about in so many ways that they seemed novel and obvious.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://lswith.io/about/</link>
-      <pubDate>Mon, 24 Dec 2018 16:01:30 +1100</pubDate>
-      
-      <guid>https://lswith.io/about/</guid>
-      <description>Blog This is Lswith&amp;rsquo;s personal blog. It&amp;rsquo;s theme is centered around all things that I&amp;rsquo;ve learned.
-This blog is about:
- new things in the SRE/Devops space my opinions on things I&amp;rsquo;ve read in tech things I&amp;rsquo;ve learne about soft skills  A quote from Julia Evans&amp;rsquo; blog:
- I’m trying to create a small corner of the internet which is never condescending or rude or dismissive
- Me I&amp;rsquo;m an SRE living in Sydney, Australia.</description>
     </item>
     
   </channel>

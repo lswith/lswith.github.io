@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<title>Kubeconf 2018: The Overview</title>
+	<link rel="stylesheet" href="/css/style.min.857f4a4adceba73f2fc8a745f8ca8b08437800bdf1c3275e2c7360f4994644ba.css" integrity="sha256-hX9KStzrpz8vyKdF+MqLCEN4AL3xwydeLHNg9JlGRLo=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://lswith.io">Lswith&#39;s Blog</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					<a href="/posts/">Posts</a>
+					<a href="/about/">About</a>
+					<a href="https://tinyletter.com/lswith/">Subscribe</a>
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-social hide-in-mobile"><a href="https://github.com/Lswith" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></span><button id="menu-btn" class="hdr-btn"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast" style="display: none;">
+		<ul>
+			<li><a href="/posts/">Posts</a></li>
+			<li><a href="/about/">About</a></li>
+			<li><a href="https://tinyletter.com/lswith/">Subscribe</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Dec 29, 2018</span></div>
+				<h1>Kubeconf 2018: The Overview</h1>
+			</header>
+			<div class="content">
+				
+
+<p>I attended KubeConf 2018 in Seattle a week ago.
+I&rsquo;ve decided to distill the core concepts that I think are important from the conference into this blog post.</p>
+
+<p>I can categorize what the conference was trying to push into 5 concepts:</p>
+
+<ul>
+<li><strong>Observability is King</strong></li>
+<li><strong>Do 1 Thing Well</strong></li>
+<li><strong>Choose Tools Appropriately</strong></li>
+<li><strong>Everyone Needs to know Cloud Ops</strong></li>
+<li><strong>Be Cloud Provider Agnostic</strong></li>
+</ul>
+
+<p>These aren&rsquo;t new ideas but they were so prominent and spoken about in so many ways that they seemed
+novel and obvious.</p>
+
+<h2 id="observability-is-king">Observability is King</h2>
+
+<blockquote>
+<p>observability is a measure of how well internal states of a system can be inferred from knowledge of its external outputs.</p>
+</blockquote>
+
+<p>Observability was pushed so much at Kubeconf and was the star of the show. It seemed that all the major tools
+and new features in Kubernetes were all about increasing visibility into the systems that you run and the
+systems that you rely on.</p>
+
+<p><a href="https://www.envoyproxy.io/" target="_blank">Envoy</a> and <a href="https://istio.io/" target="_blank">Istio</a> are chosen not only for performance reasons but because people needed a way to
+observe the network they rely on.</p>
+
+<p><em>Working in the cloud, you quickly realise that not every scenario and failure can be tested for.</em>
+It&rsquo;s a much better idea to observe what is going on in production and when the alert when things fail.</p>
+
+<p><a href="https://prometheus.io/" target="_blank">Prometheus</a> has now been used extensively in production and has been rolled out in many, many different ways
+across people&rsquo;s systems. It along with <a href="https://www.jaegertracing.io/" target="_blank">Jaegar</a> seem to be where the industry is moving and consolidating around.</p>
+
+<p>Even Kubernetes has increased its metric output as it realised that it was required to better maintain the cluster.</p>
+
+<h2 id="do-1-thing-well">Do 1 Thing Well</h2>
+
+<p>In an architecture, doing 1 thing well means making sure that each individual part of the system does 1 thing,
+and has a <strong>clear boundary</strong> around that 1 thing. This clear boundary means that things become easier to debug,
+easier to reason about, and easier to compose into something larger.</p>
+
+<p>In the tooling space, pick the tool that is easiest to compose with other tools and that
+only does 1 thing. This allows you to fully leverage it and compose it
+into your system.</p>
+
+<p>In business, doing 1 thing well is about focusing on what is core to your business and outsourcing
+what isn&rsquo;t. Making sure to do 1 thing well, allows you to be agile enough to change and compose
+what you provide as necessary and gives focus to the product.</p>
+
+<p>Being able to seperate out each part into the 1 thing it does also allows for a better idea of how
+that thing is being used. This means, that backwards compatibility becomes easier to manage
+and reliability then increases 10 fold.</p>
+
+<h2 id="choose-tools-appropriately">Choose Tools Appropriately</h2>
+
+<p>Everyone loves tools. <em>Everyone</em> has too many tools. Consolidate into what is necessary,
+and discard what isn&rsquo;t.</p>
+
+<p>Choosing the right tools is <strong>incredibily important</strong> and they should be chosen  with care.
+An acronym that was mentioned was:</p>
+
+<p>AEIOU:</p>
+
+<ul>
+<li><em>Applicable</em>: does this tool solve the issue at hand?</li>
+<li><em>Enterprise Readiness</em>: Is this tool ready for scale?</li>
+<li><em>Integrate</em>: Can this tool be easily integrated into the platform?</li>
+<li><em>Overhead</em>: How much maintainance does this tool require?</li>
+<li><em>Useful</em>: Is this tool actually useful?</li>
+</ul>
+
+<p>Using this acroynm helps to better evaluate if a tool is right for the job or whether doing something
+in house is needed.</p>
+
+<h2 id="everyone-needs-to-know-cloud-ops">Everyone needs to know Cloud Ops</h2>
+
+<p>To really embrace the cloud, you need a large amount of knowledge in using the cloud.
+It&rsquo;s synonomous with relearning how to run a server except now its much more complicated.</p>
+
+<p>Being able to get everyone trained up to understand how things run in the cloud (or on Kubernetes)
+means that it&rsquo;s easier for them to reason about how the system interacts.
+<strong>Developers and others need to know how to run and debug their code in any environment.</strong></p>
+
+<p>The good thing is that now that Kubernetes is becoming the defactor standard, its becoming much
+more valuable to learn how things run on Kubernetes and the learnings are much more standardised
+and universal than ever before.</p>
+
+<h2 id="be-cloud-provider-agnostic">Be Cloud Provider Agnostic</h2>
+
+<p>Kubernetes is a great platform for shipping code anywhere. Your servers, your customer&rsquo;s servers,
+or someone else&rsquo;s. This also means that writing your code to be cloud agnostic is vital.</p>
+
+<p>If you want to truly be able to deploy anywhere, you need to minimise your dependencies
+on anything that isn&rsquo;t installable on kubernetes.</p>
+
+<p>There were a few case studies about how a multitude of products were shipped on
+their customer&rsquo;s servers through the use of kubernetes.</p>
+
+<hr />
+
+<p>Hopefully, these concepts will bring the same amount of inspiration that KubeConf has done for me!</p>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://lswith.io/tags/kubeconf">kubeconf</a></span><span class="tag"><a href="https://lswith.io/tags/sre">sre</a></span><span class="tag"><a href="https://lswith.io/tags/observability">observability</a></span><span class="tag"><a href="https://lswith.io/tags/ci">ci</a></span><span class="tag"><a href="https://lswith.io/tags/tooling">tooling</a></span><span class="tag"><a href="https://lswith.io/tags/kubernetes">kubernetes</a></span>
+				</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>765 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2018-12-29 17:23 &#43;1100</p>
+			</footer>
+		</article>
+		<div class="post-nav thin">
+		</div>
+		<div id="disqus" class="thin">
+			<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "lswith" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+		</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2018 <a href="https://lswith.io">Luke Swithenbank</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://lswith.io/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></p>
+	</footer>
+
+	<script>let haveHeader = true;</script>
+
+	<script src="/js/main.min.00689ba18bbf9422fda222b02b555f01d54bfbb9b6d02f9bcffad67bdb2ff2cd.js" integrity="sha256-AGiboYu/lCL9oiKwK1VfAdVL+7m20C+bz/rWe9sv8s0="></script>
+	
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-131371362-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</body>
+
+</html>
