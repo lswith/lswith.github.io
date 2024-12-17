@@ -5,47 +5,46 @@
     <link>https://lswith.io/tags/</link>
     <description>Recent content in Tags on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <language>en</language>
     <lastBuildDate>Sat, 29 Dec 2018 17:23:30 +1100</lastBuildDate>
     <atom:link href="https://lswith.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tags/Ci</title>
+      <title>Ci</title>
       <link>https://lswith.io/tags/ci/</link>
       <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
       <guid>https://lswith.io/tags/ci/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Kubeconf</title>
+      <title>Kubeconf</title>
       <link>https://lswith.io/tags/kubeconf/</link>
       <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
       <guid>https://lswith.io/tags/kubeconf/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Kubernetes</title>
+      <title>Kubernetes</title>
       <link>https://lswith.io/tags/kubernetes/</link>
       <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
       <guid>https://lswith.io/tags/kubernetes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Observability</title>
+      <title>Observability</title>
       <link>https://lswith.io/tags/observability/</link>
       <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
       <guid>https://lswith.io/tags/observability/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Sre</title>
+      <title>Sre</title>
       <link>https://lswith.io/tags/sre/</link>
       <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
       <guid>https://lswith.io/tags/sre/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tags/Tooling</title>
+      <title>Tooling</title>
       <link>https://lswith.io/tags/tooling/</link>
       <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
       <guid>https://lswith.io/tags/tooling/</guid>

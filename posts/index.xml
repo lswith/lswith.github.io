@@ -5,8 +5,26 @@
     <link>https://lswith.io/posts/</link>
     <description>Recent content in Posts on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
-    <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Dec 2018 17:23:30 +1100</lastBuildDate>
     <atom:link href="https://lswith.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubeconf 2018: The Overview</title>
+      <link>https://lswith.io/posts/kubeconf-2018/</link>
+      <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
+      <guid>https://lswith.io/posts/kubeconf-2018/</guid>
+      <description>&lt;p&gt;I attended KubeConf 2018 in Seattle a week ago.
+I&amp;rsquo;ve decided to distill the core concepts that I think are important from the conference into this blog post.&lt;/p&gt;
+&lt;p&gt;I can categorize what the conference was trying to push into 5 concepts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Observability is King&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Do 1 Thing Well&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Choose Tools Appropriately&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Everyone Needs to know Cloud Ops&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Be Cloud Provider Agnostic&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These aren&amp;rsquo;t new ideas but they were so prominent and spoken about in so many ways that they seemed
+novel and obvious.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
