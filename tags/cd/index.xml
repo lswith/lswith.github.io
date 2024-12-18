@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ci on Lswith&#39;s Blog</title>
-    <link>https://lswith.io/tags/ci/</link>
-    <description>Recent content in Ci on Lswith&#39;s Blog</description>
+    <title>Cd on Lswith&#39;s Blog</title>
+    <link>https://lswith.io/tags/cd/</link>
+    <description>Recent content in Cd on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Jul 2024 09:00:00 +1100</lastBuildDate>
-    <atom:link href="https://lswith.io/tags/ci/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lswith.io/tags/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rethinking Continous Delivery</title>
       <link>https://lswith.io/posts/continuous-delivery/</link>
@@ -22,24 +22,6 @@
 &lt;li&gt;&lt;strong&gt;Traceability&lt;/strong&gt;: It should be clear what was included in each release.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;A powerful approach to achieve these qualities is to center the release process around a build artifact.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kubeconf 2018: The Overview</title>
-      <link>https://lswith.io/posts/kubeconf-2018/</link>
-      <pubDate>Sat, 29 Dec 2018 17:23:30 +1100</pubDate>
-      <guid>https://lswith.io/posts/kubeconf-2018/</guid>
-      <description>&lt;p&gt;I attended KubeConf 2018 in Seattle a week ago.
-I&amp;rsquo;ve decided to distill the core concepts that I think are important from the conference into this blog post.&lt;/p&gt;
-&lt;p&gt;I can categorize what the conference was trying to push into 5 concepts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Observability is King&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Do 1 Thing Well&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Choose Tools Appropriately&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Everyone Needs to know Cloud Ops&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Be Cloud Provider Agnostic&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;These aren&amp;rsquo;t new ideas but they were so prominent and spoken about in so many ways that they seemed
-novel and obvious.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

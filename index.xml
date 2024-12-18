@@ -6,8 +6,23 @@
     <description>Recent content on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Dec 2018 17:23:30 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 09:00:00 +1100</lastBuildDate>
     <atom:link href="https://lswith.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rethinking Continous Delivery</title>
+      <link>https://lswith.io/posts/continuous-delivery/</link>
+      <pubDate>Tue, 16 Jul 2024 09:00:00 +1100</pubDate>
+      <guid>https://lswith.io/posts/continuous-delivery/</guid>
+      <description>&lt;h1 id=&#34;rethinking-continuous-delivery&#34;&gt;&lt;strong&gt;Rethinking Continuous Delivery&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Continuous Delivery is the ability to consistently ship code multiple times a day to production. It enables fast and reliable delivery of features through automation of the release process.&lt;/p&gt;
+&lt;p&gt;Effective release processes have a few essential qualities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt;: Changes should be quick to get into production.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity&lt;/strong&gt;: The process should be easy to understand.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traceability&lt;/strong&gt;: It should be clear what was included in each release.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A powerful approach to achieve these qualities is to center the release process around a build artifact.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kubeconf 2018: The Overview</title>
       <link>https://lswith.io/posts/kubeconf-2018/</link>

@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lswith.io/tags/artifacts/</loc>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/build/</loc>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/cd/</loc>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+  </url><url>
     <loc>https://lswith.io/tags/ci/</loc>
-    <lastmod>2018-12-29T17:23:30+11:00</lastmod>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/</loc>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/</loc>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/continuous-delivery/</loc>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/</loc>
+    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/kubeconf/</loc>
     <lastmod>2018-12-29T17:23:30+11:00</lastmod>
@@ -14,19 +35,10 @@
     <loc>https://lswith.io/tags/kubernetes/</loc>
     <lastmod>2018-12-29T17:23:30+11:00</lastmod>
   </url><url>
-    <loc>https://lswith.io/</loc>
-    <lastmod>2018-12-29T17:23:30+11:00</lastmod>
-  </url><url>
     <loc>https://lswith.io/tags/observability/</loc>
     <lastmod>2018-12-29T17:23:30+11:00</lastmod>
   </url><url>
-    <loc>https://lswith.io/posts/</loc>
-    <lastmod>2018-12-29T17:23:30+11:00</lastmod>
-  </url><url>
     <loc>https://lswith.io/tags/sre/</loc>
-    <lastmod>2018-12-29T17:23:30+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/</loc>
     <lastmod>2018-12-29T17:23:30+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/tooling/</loc>
