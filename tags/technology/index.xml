@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Artifacts on Lswith&#39;s Blog</title>
-    <link>https://lswith.io/tags/artifacts/</link>
-    <description>Recent content in Artifacts on Lswith&#39;s Blog</description>
+    <title>Technology on Lswith&#39;s Blog</title>
+    <link>https://lswith.io/tags/technology/</link>
+    <description>Recent content in Technology on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Nov 2024 09:00:00 +1100</lastBuildDate>
-    <atom:link href="https://lswith.io/tags/artifacts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lswith.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infrastructure as an Enabler, Not a differentiator</title>
       <link>https://lswith.io/posts/infra/</link>
@@ -17,21 +17,6 @@
 &lt;p&gt;In the fast-moving world of technology, it’s easy to be drawn to the latest and greatest infrastructure solutions. But for most companies, infrastructure shouldn’t be seen as the centerpiece of innovation. Instead, it’s a critical enabler—a foundation that supports product development, rather than a driver of differentiation.&lt;/p&gt;
 &lt;h2 id=&#34;infrastructure-is-not-core-to-the-business&#34;&gt;&lt;strong&gt;Infrastructure Is Not Core to the Business&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Companies succeed by delivering unique, customer-centric experiences. The core of this value lies in product innovation—the features, interfaces, and improvements that users interact with directly. Infrastructure, while essential for enabling that innovation, exists in the background. It’s the scaffolding that holds everything up, not the product that defines the customer experience.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rethinking Continous Delivery</title>
-      <link>https://lswith.io/posts/continuous-delivery/</link>
-      <pubDate>Tue, 16 Jul 2024 09:00:00 +1100</pubDate>
-      <guid>https://lswith.io/posts/continuous-delivery/</guid>
-      <description>&lt;h1 id=&#34;rethinking-continuous-delivery&#34;&gt;&lt;strong&gt;Rethinking Continuous Delivery&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Continuous Delivery is the ability to consistently ship code multiple times a day to production. It enables fast and reliable delivery of features through automation of the release process.&lt;/p&gt;
-&lt;p&gt;Effective release processes have a few essential qualities:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Speed&lt;/strong&gt;: Changes should be quick to get into production.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Simplicity&lt;/strong&gt;: The process should be easy to understand.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Traceability&lt;/strong&gt;: It should be clear what was included in each release.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A powerful approach to achieve these qualities is to center the release process around a build artifact.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

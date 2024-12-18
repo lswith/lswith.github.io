@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jul 2024 09:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 09:00:00 +1100</lastBuildDate>
     <atom:link href="https://lswith.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infrastructure as an Enabler, Not a differentiator</title>
+      <link>https://lswith.io/posts/infra/</link>
+      <pubDate>Mon, 11 Nov 2024 09:00:00 +1100</pubDate>
+      <guid>https://lswith.io/posts/infra/</guid>
+      <description>&lt;h1 id=&#34;infrastructure-as-an-enabler-not-a-differentiator&#34;&gt;&lt;strong&gt;Infrastructure as an Enabler, Not a Differentiator&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;In the fast-moving world of technology, it’s easy to be drawn to the latest and greatest infrastructure solutions. But for most companies, infrastructure shouldn’t be seen as the centerpiece of innovation. Instead, it’s a critical enabler—a foundation that supports product development, rather than a driver of differentiation.&lt;/p&gt;
+&lt;h2 id=&#34;infrastructure-is-not-core-to-the-business&#34;&gt;&lt;strong&gt;Infrastructure Is Not Core to the Business&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Companies succeed by delivering unique, customer-centric experiences. The core of this value lies in product innovation—the features, interfaces, and improvements that users interact with directly. Infrastructure, while essential for enabling that innovation, exists in the background. It’s the scaffolding that holds everything up, not the product that defines the customer experience.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rethinking Continous Delivery</title>
       <link>https://lswith.io/posts/continuous-delivery/</link>

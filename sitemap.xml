@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lswith.io/tags/artifacts/</loc>
-    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/boring/</loc>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/infrastructure/</loc>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/infra/</loc>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/</loc>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/</loc>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/</loc>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/technology/</loc>
+    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/build/</loc>
     <lastmod>2024-07-16T09:00:00+11:00</lastmod>
@@ -14,16 +35,7 @@
     <loc>https://lswith.io/tags/ci/</loc>
     <lastmod>2024-07-16T09:00:00+11:00</lastmod>
   </url><url>
-    <loc>https://lswith.io/</loc>
-    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/posts/</loc>
-    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
-  </url><url>
     <loc>https://lswith.io/posts/continuous-delivery/</loc>
-    <lastmod>2024-07-16T09:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/</loc>
     <lastmod>2024-07-16T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/kubeconf/</loc>
