@@ -6,8 +6,16 @@
     <description>Recent content on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2024 09:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 09:00:00 +1100</lastBuildDate>
     <atom:link href="https://lswith.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Teams Matter Over Individuals</title>
+      <link>https://lswith.io/posts/teams-over-individuals/</link>
+      <pubDate>Fri, 20 Dec 2024 09:00:00 +1100</pubDate>
+      <guid>https://lswith.io/posts/teams-over-individuals/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Recently, I started reading &lt;a href=&#34;https://teamtopologies.com/book&#34;&gt;&lt;em&gt;Team Topologies&lt;/em&gt;&lt;/a&gt; and quickly noticed that many of the key concepts in the book resonated deeply with my experiences at Dovetail. The most striking realization was the power of teams over individuals. This idea challenged some traditional notions of performance and productivity, highlighting that team structure and dynamics are far more important than individual brilliance. Reflecting on these concepts has helped me better understand some of the organizational issues we’ve encountered and provided a fresh lens for approaching potential solutions. This blog is the first in a series where I’ll explore the key learnings from &lt;em&gt;Team Topologies&lt;/em&gt; and share how they relate to my own experiences.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Infrastructure as an Enabler, Not a differentiator</title>
       <link>https://lswith.io/posts/infra/</link>
@@ -50,23 +58,6 @@ I&amp;rsquo;ve decided to distill the core concepts that I think are important f
 &lt;/ul&gt;
 &lt;p&gt;These aren&amp;rsquo;t new ideas but they were so prominent and spoken about in so many ways that they seemed
 novel and obvious.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://lswith.io/about/</link>
-      <pubDate>Mon, 24 Dec 2018 16:01:30 +1100</pubDate>
-      <guid>https://lswith.io/about/</guid>
-      <description>&lt;h1 id=&#34;blog&#34;&gt;Blog&lt;/h1&gt;
-&lt;p&gt;Welcome to Lswith&amp;rsquo;s personal blog—a space dedicated to sharing the things I&amp;rsquo;ve learned along the way.&lt;/p&gt;
-&lt;p&gt;Here, I write about:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Innovations and insights in the SRE/DevOps space&lt;/li&gt;
-&lt;li&gt;My take on thought-provoking ideas and trends in tech&lt;/li&gt;
-&lt;li&gt;Lessons learned about soft skills like communication, emotional intelligence, and leadership&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I aim to create a small corner of the internet that, as Julia Evans puts it:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;is never condescending or rude or dismissive.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

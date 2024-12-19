@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ownership on Lswith&#39;s Blog</title>
+    <link>https://lswith.io/tags/ownership/</link>
+    <description>Recent content in Ownership on Lswith&#39;s Blog</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Dec 2024 09:00:00 +1100</lastBuildDate>
+    <atom:link href="https://lswith.io/tags/ownership/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Teams Matter Over Individuals</title>
+      <link>https://lswith.io/posts/teams-over-individuals/</link>
+      <pubDate>Fri, 20 Dec 2024 09:00:00 +1100</pubDate>
+      <guid>https://lswith.io/posts/teams-over-individuals/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Recently, I started reading &lt;a href=&#34;https://teamtopologies.com/book&#34;&gt;&lt;em&gt;Team Topologies&lt;/em&gt;&lt;/a&gt; and quickly noticed that many of the key concepts in the book resonated deeply with my experiences at Dovetail. The most striking realization was the power of teams over individuals. This idea challenged some traditional notions of performance and productivity, highlighting that team structure and dynamics are far more important than individual brilliance. Reflecting on these concepts has helped me better understand some of the organizational issues we’ve encountered and provided a fresh lens for approaching potential solutions. This blog is the first in a series where I’ll explore the key learnings from &lt;em&gt;Team Topologies&lt;/em&gt; and share how they relate to my own experiences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

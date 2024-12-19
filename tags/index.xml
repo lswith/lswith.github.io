@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2024 09:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 09:00:00 +1100</lastBuildDate>
     <atom:link href="https://lswith.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anti-Pattern</title>
+      <link>https://lswith.io/tags/anti-pattern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lswith.io/tags/anti-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ownership</title>
+      <link>https://lswith.io/tags/ownership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lswith.io/tags/ownership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teams</title>
+      <link>https://lswith.io/tags/teams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lswith.io/tags/teams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topologies</title>
+      <link>https://lswith.io/tags/topologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lswith.io/tags/topologies/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Artifacts</title>
       <link>https://lswith.io/tags/artifacts/</link>
