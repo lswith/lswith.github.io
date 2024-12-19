@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lswith.io/</loc>
+    <lastmod>2024-12-20T09:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/</loc>
+    <lastmod>2024-12-20T09:00:00+11:00</lastmod>
+  </url><url>
     <loc>https://lswith.io/tags/artifacts/</loc>
     <lastmod>2024-11-11T09:00:00+11:00</lastmod>
   </url><url>
@@ -12,12 +18,6 @@
     <lastmod>2024-11-11T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/posts/infra/</loc>
-    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/</loc>
-    <lastmod>2024-11-11T09:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/posts/</loc>
     <lastmod>2024-11-11T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/</loc>
