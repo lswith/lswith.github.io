@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>X-as-a-Service on Lswith&#39;s Blog</title>
+    <link>https://lswith.io/tags/x-as-a-service/</link>
+    <description>Recent content in X-as-a-Service on Lswith&#39;s Blog</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jan 2025 13:00:00 +1100</lastBuildDate>
+    <atom:link href="https://lswith.io/tags/x-as-a-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Teams Communicate and Interact</title>
+      <link>https://lswith.io/posts/how-teams-interact/</link>
+      <pubDate>Wed, 08 Jan 2025 13:00:00 +1100</pubDate>
+      <guid>https://lswith.io/posts/how-teams-interact/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In the second part of this blog series inspired by &lt;a href=&#34;https://teamtopologies.com/book&#34;&gt;&lt;em&gt;Team Topologies&lt;/em&gt;&lt;/a&gt;, I explore how teams communicate and interact with one another. Effective team communication is a cornerstone of organizational success, but it’s often easier said than done. This post dives into key interaction modes and practices that can help teams strike the right balance between autonomy and collaboration, ultimately improving flow and reducing friction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. The Challenge of Team Communication&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

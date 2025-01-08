@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lswith.io/tags/collaboration/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/communication/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/facilitating/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/how-teams-interact/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/teams/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/topologies/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/x-as-a-service/</loc>
+    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
+  </url><url>
     <loc>https://lswith.io/tags/community/</loc>
     <lastmod>2025-01-07T09:00:00+11:00</lastmod>
   </url><url>
@@ -14,19 +44,10 @@
     <loc>https://lswith.io/tags/knowledge/</loc>
     <lastmod>2025-01-07T09:00:00+11:00</lastmod>
   </url><url>
-    <loc>https://lswith.io/</loc>
-    <lastmod>2025-01-07T09:00:00+11:00</lastmod>
-  </url><url>
     <loc>https://lswith.io/tags/misinformation/</loc>
     <lastmod>2025-01-07T09:00:00+11:00</lastmod>
   </url><url>
-    <loc>https://lswith.io/posts/</loc>
-    <lastmod>2025-01-07T09:00:00+11:00</lastmod>
-  </url><url>
     <loc>https://lswith.io/tags/reality-based-community/</loc>
-    <lastmod>2025-01-07T09:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/</loc>
     <lastmod>2025-01-07T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/truth/</loc>
@@ -39,12 +60,6 @@
     <lastmod>2024-12-20T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/ownership/</loc>
-    <lastmod>2024-12-20T09:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/teams/</loc>
-    <lastmod>2024-12-20T09:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/topologies/</loc>
     <lastmod>2024-12-20T09:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/posts/teams-over-individuals/</loc>
