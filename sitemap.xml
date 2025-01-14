@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lswith.io/tags/complicated-subsystem/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/designing-teams/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/devops/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/enabling/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/platform/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/posts/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/stream-aligned/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/support/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/teams/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
+    <loc>https://lswith.io/tags/topologies/</loc>
+    <lastmod>2025-01-14T13:00:00+11:00</lastmod>
+  </url><url>
     <loc>https://lswith.io/tags/collaboration/</loc>
     <lastmod>2025-01-08T13:00:00+11:00</lastmod>
   </url><url>
@@ -12,21 +48,6 @@
     <lastmod>2025-01-08T13:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/posts/how-teams-interact/</loc>
-    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/</loc>
-    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/posts/</loc>
-    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/</loc>
-    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/teams/</loc>
-    <lastmod>2025-01-08T13:00:00+11:00</lastmod>
-  </url><url>
-    <loc>https://lswith.io/tags/topologies/</loc>
     <lastmod>2025-01-08T13:00:00+11:00</lastmod>
   </url><url>
     <loc>https://lswith.io/tags/x-as-a-service/</loc>

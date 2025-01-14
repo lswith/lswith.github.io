@@ -6,8 +6,19 @@
     <description>Recent content in Posts on Lswith&#39;s Blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jan 2025 13:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 13:00:00 +1100</lastBuildDate>
     <atom:link href="https://lswith.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing Teams for Effective Software Delivery</title>
+      <link>https://lswith.io/posts/designing-teams/</link>
+      <pubDate>Tue, 14 Jan 2025 13:00:00 +1100</pubDate>
+      <guid>https://lswith.io/posts/designing-teams/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;In this post, I explore how to consciously design team structures and responsibilities to enable effective, sustainable software delivery. Inspired by Team Topologies, this approach emphasizes the deliberate design of team boundaries and interactions to maximize flow and minimize friction.&lt;/p&gt;
+&lt;p&gt;As Team Topologies explains:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“We call these consciously designed team structures team topologies, a term that acknowledges that teams should be deliberately ‘placed’ into organizations while also referring to the boundary of responsibility of each team.”&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Teams Communicate and Interact</title>
       <link>https://lswith.io/posts/how-teams-interact/</link>
